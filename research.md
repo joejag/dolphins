@@ -7,7 +7,6 @@ STRUCTURE
 * 'Perverse Incentive'
     * We want this, we try to get it, we end up with something else
     * These unintended consequences are what we get due to the actions people take to make recieve the incentive
-    * STORY: The first example in software I could find was... IBM in the 80s created a pay structure that paid folk by line of code written. The original code style wars was between developers rewarded by LoC and book publishers who wanted to make their point on a single page.
 * Why:
  * Purpose -> Measure -> Method
  * Add a perverse incentive and it becomes the 'de-facto purpose', removing the real one.
@@ -15,6 +14,7 @@ STRUCTURE
 * Activity stories
   * The key is to think whether the measure if about outcome or activity and how it is measured.
   * 100% test coverage. Heard that's great, but decided to mandate 100%, but also outsourced the writing on unit tests to a another country. Two teams of folk on it for three months. All deleted by the teams who inherited them.
+  * STORY: The first example in software I could find was... IBM in the 80s created a pay structure that paid folk by line of code written. The original code style wars was between developers rewarded by LoC and book publishers who wanted to make their point on a single page.
   * Think evil.
   * Another company wanted a way to tell if their ScrumMasters were being productive. They decided to measure them by 'blockers removed'. What's worse is the metric they used to measure the PMs was 'projects saved'
 * Helpful bit:
@@ -31,8 +31,8 @@ Perverse incentives: http://www.learningspy.co.uk/leadership/perverse-incentives
 Liz Keogh: Learning and Perverse Incentives: The Evil Hat
 Agile Metrics: https://www.extremeuncertainty.com/agile-metrics-youre-doing-it-wrong/
 Cobra Effect: https://ourworld.unu.edu/en/systems-thinking-and-the-cobra-effect
-
 Outcome metrics: http://www.evolvebeyond.com/outcome-metrics/measure-what-matters/
+Dolphins: https://www.littlethings.com/brilliant-kelly-the-dolphin-fools-trainers/
 
 * Systemic relationship between 
     * purpose (what we are here to do)
